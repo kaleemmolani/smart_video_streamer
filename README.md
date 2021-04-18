@@ -35,11 +35,6 @@ and puase automatically if viewver look at screen
 
 
 <!-- USAGE EXAMPLES -->
-
-
-Note:Add any video of your choice in videoDB folder
-
-
 [contributors-shield]: https://img.shields.io/github/contributors/kaleemmolani/smart_video_streamer?style=for-the-badge
 [contributors-url]: https://api.github.com/repos/kaleemmolani/smart_video_streamer/contributors
 [forks-shield]: https://img.shields.io/github/forks/kaleemmolani/smart_video_streamer?style=for-the-badge
